@@ -59,4 +59,9 @@ Before you begin, make sure you have the following installed on your system:
 7. Access the project:
    - Once the server is running, you can access the project at [http://localhost:8080](http://localhost:8080).
 
+## Project Contribution
+This project was developed as a team project.
+I contributed to backend logic, feature implementation, and documentation.
+Original repository by Rahul Juyal.
+
 That's it! You have successfully installed and set up the Wanderlust web project on your local machine. Happy traveling! 🌍✈️
